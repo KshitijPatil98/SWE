@@ -14,18 +14,24 @@ function AboutCard() {
             from the <span className="purple">University at Buffalo, SUNY</span>
             . I specialize in{" "}
             <span className="purple">
-              Kubernetes, Terraform, cloud infrastructure management
+              Kubernetes, Terraform, GoLang, Python
             </span>
-            , and <span className="purple">GoLang</span>, with hands-on
-            experience in configuring and optimizing complex environments. My
-            expertise includes implementing{" "}
-            <span className="purple">CI/CD pipelines</span>, automating
-            workflows, and enhancing application performance. At Incalus Inc, I
-            significantly reduced infrastructure costs and downtime, boosting
-            deployment efficiency and scalability. With a strong background in
-            programming languages like{" "}
-            <span className="purple">Go, Python, and Bash</span>, I thrive in
-            dynamic environments, driving innovation and operational excellence.
+            , and{" "}
+            <span className="purple">cloud infrastructure management</span>,
+            with hands-on experience in configuring and optimizing complex
+            environments. My expertise includes implementing{" "}
+            <span className="purple">
+              CI/CD pipelines, automating workflows
+            </span>
+            , and enhancing{" "}
+            <span className="purple">application performance</span>. At Incalus
+            Inc, I significantly reduced{" "}
+            <span className="purple">infrastructure costs</span> and
+            <span className="purple"> downtime</span>, boosting deployment
+            efficiency and scalability. With a strong background in programming
+            languages like <span className="purple">Go, Python, and Bash</span>,
+            I thrive in dynamic environments, driving innovation and operational
+            excellence.
             {<br />}
             Additionally, I am a{" "}
             <span className="purple">
