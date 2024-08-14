@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SWE/static/css/main.ca0f8850.css",
-    "main.js": "/SWE/static/js/main.2b5576a0.js",
+    "main.js": "/SWE/static/js/main.e6ba21c1.js",
     "static/js/453.ace21015.chunk.js": "/SWE/static/js/453.ace21015.chunk.js",
     "static/media/leaf.png": "/SWE/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/SWE/static/media/emotion.eabfc16e7a146ab15778.png",
@@ -13,18 +13,18 @@
     "static/media/chatify.png": "/SWE/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/hfcp.png": "/SWE/static/media/hfcp.6ea52e01eac96a270f6a.png",
     "static/media/ub_logo.jpg": "/SWE/static/media/ub_logo.946a0d1fb735ab278758.jpg",
-    "static/media/Kshitij_Patil_DevOps.pdf": "/SWE/static/media/Kshitij_Patil_DevOps.d5c41020450622a30604.pdf",
+    "static/media/Kshitij_Patil_DevOps.pdf": "/SWE/static/media/Kshitij_Patil_DevOps.a918124ac940d31de658.pdf",
     "static/media/profile.jpg": "/SWE/static/media/profile.7d9fb3b6bdb3a54b3838.jpg",
     "static/media/home-bg.jpg": "/SWE/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/puneuniversity_logo.jpg": "/SWE/static/media/puneuniversity_logo.55016bbce1afd394533b.jpg",
     "static/media/pre.svg": "/SWE/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/SWE/index.html",
     "main.ca0f8850.css.map": "/SWE/static/css/main.ca0f8850.css.map",
-    "main.2b5576a0.js.map": "/SWE/static/js/main.2b5576a0.js.map",
+    "main.e6ba21c1.js.map": "/SWE/static/js/main.e6ba21c1.js.map",
     "453.ace21015.chunk.js.map": "/SWE/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca0f8850.css",
-    "static/js/main.2b5576a0.js"
+    "static/js/main.e6ba21c1.js"
   ]
 }
